@@ -1,5 +1,11 @@
 # Traffic Control Simulator
 
+## Solution Design: Data Structures and Thread Safety
+- **queue<TrafficData> (Bounded Buffer):** Allows producers and consumers to communicate. Access is protected by a mutex and synchronised with condition variables, making it thread safe and blocking.
+- **map<string, map<int, int>> (Results Map):** Compiles car counts per traffic light and hour. Updates are protected by a mutex, ensuring thread safety. Access is non blocking except when locked for updates.
+- **vector<string> (Input Data):** Stores all lines from the input file. Read only after initialisation, so no thread safety is needed.
+- **atomic<int> (Counters):** Used for tracking current line and active producers. These are thread safe and non blocking.
+
 ## Generate Data
 The first file is `GenerateData.cpp`. This is not one of the main bits of code but it is essential for allowing you to choose variables that affect the size of the data. Specifically, the user is able to input the amount of traffic lights and the amount of hours and based on that, it will generate data for the amount of cars that pass through each traffic light every 5 minutes.
 
