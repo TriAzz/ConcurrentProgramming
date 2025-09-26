@@ -19,4 +19,7 @@ This repository is a combination of modules and tasks created as part of Deakin 
 - **module_3_task_1**: Distributed Matrix Multiplication
   - Explores distributed and heterogeneous matrix multiplication using MPI, OpenMP, and OpenCL.
 
+- **module_3_task_2**: Distributed QuickSort
+  - Analyzes distributed and heterogeneous implementations of QuickSort using MPI and OpenCL.
+
 Each module contains code, documentation, and results relevant to the specific task, showcasing various concurrent and distributed programming techniques.
