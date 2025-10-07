@@ -1,0 +1,1513 @@
+Top 5 congested lights for hour 2025-01-01 00:
+  Light 414: 936 cars
+  Light 665: 873 cars
+  Light 206: 867 cars
+  Light 122: 867 cars
+  Light 39: 865 cars
+
+Top 5 congested lights for hour 2025-01-01 01:
+  Light 55: 923 cars
+  Light 280: 912 cars
+  Light 647: 903 cars
+  Light 455: 903 cars
+  Light 708: 886 cars
+
+Top 5 congested lights for hour 2025-01-01 02:
+  Light 446: 903 cars
+  Light 311: 888 cars
+  Light 40: 863 cars
+  Light 347: 846 cars
+  Light 22: 846 cars
+
+Top 5 congested lights for hour 2025-01-01 03:
+  Light 199: 999 cars
+  Light 48: 864 cars
+  Light 25: 861 cars
+  Light 597: 856 cars
+  Light 27: 854 cars
+
+Top 5 congested lights for hour 2025-01-01 04:
+  Light 675: 905 cars
+  Light 69: 889 cars
+  Light 128: 867 cars
+  Light 718: 846 cars
+  Light 531: 846 cars
+
+Top 5 congested lights for hour 2025-01-01 05:
+  Light 182: 870 cars
+  Light 27: 870 cars
+  Light 99: 854 cars
+  Light 565: 850 cars
+  Light 323: 849 cars
+
+Top 5 congested lights for hour 2025-01-01 06:
+  Light 642: 907 cars
+  Light 653: 900 cars
+  Light 451: 895 cars
+  Light 580: 864 cars
+  Light 54: 860 cars
+
+Top 5 congested lights for hour 2025-01-01 07:
+  Light 445: 919 cars
+  Light 687: 912 cars
+  Light 207: 896 cars
+  Light 65: 886 cars
+  Light 494: 883 cars
+
+Top 5 congested lights for hour 2025-01-01 08:
+  Light 479: 907 cars
+  Light 199: 891 cars
+  Light 239: 870 cars
+  Light 664: 849 cars
+  Light 623: 848 cars
+
+Top 5 congested lights for hour 2025-01-01 09:
+  Light 300: 876 cars
+  Light 386: 875 cars
+  Light 293: 871 cars
+  Light 639: 864 cars
+  Light 558: 854 cars
+
+Top 5 congested lights for hour 2025-01-01 10:
+  Light 421: 876 cars
+  Light 334: 875 cars
+  Light 578: 867 cars
+  Light 389: 863 cars
+  Light 72: 848 cars
+
+Top 5 congested lights for hour 2025-01-01 11:
+  Light 406: 892 cars
+  Light 285: 872 cars
+  Light 33: 868 cars
+  Light 513: 845 cars
+  Light 564: 839 cars
+
+Top 5 congested lights for hour 2025-01-01 12:
+  Light 322: 876 cars
+  Light 495: 864 cars
+  Light 91: 861 cars
+  Light 249: 856 cars
+  Light 258: 855 cars
+
+Top 5 congested lights for hour 2025-01-01 13:
+  Light 639: 901 cars
+  Light 531: 833 cars
+  Light 563: 831 cars
+  Light 634: 829 cars
+  Light 165: 826 cars
+
+Top 5 congested lights for hour 2025-01-01 14:
+  Light 86: 881 cars
+  Light 115: 878 cars
+  Light 356: 862 cars
+  Light 330: 845 cars
+  Light 263: 837 cars
+
+Top 5 congested lights for hour 2025-01-01 15:
+  Light 720: 931 cars
+  Light 341: 880 cars
+  Light 557: 839 cars
+  Light 121: 839 cars
+  Light 542: 828 cars
+
+Top 5 congested lights for hour 2025-01-01 16:
+  Light 93: 900 cars
+  Light 644: 894 cars
+  Light 103: 855 cars
+  Light 750: 854 cars
+  Light 40: 854 cars
+
+Top 5 congested lights for hour 2025-01-01 17:
+  Light 388: 929 cars
+  Light 604: 888 cars
+  Light 586: 875 cars
+  Light 247: 872 cars
+  Light 465: 866 cars
+
+Top 5 congested lights for hour 2025-01-01 18:
+  Light 348: 906 cars
+  Light 285: 882 cars
+  Light 184: 853 cars
+  Light 79: 852 cars
+  Light 621: 847 cars
+
+Top 5 congested lights for hour 2025-01-01 19:
+  Light 488: 941 cars
+  Light 130: 937 cars
+  Light 679: 880 cars
+  Light 24: 872 cars
+  Light 737: 861 cars
+
+Top 5 congested lights for hour 2025-01-01 20:
+  Light 177: 917 cars
+  Light 731: 883 cars
+  Light 467: 870 cars
+  Light 338: 868 cars
+  Light 590: 862 cars
+
+Top 5 congested lights for hour 2025-01-01 21:
+  Light 30: 902 cars
+  Light 555: 843 cars
+  Light 725: 841 cars
+  Light 478: 835 cars
+  Light 423: 835 cars
+
+Top 5 congested lights for hour 2025-01-01 22:
+  Light 227: 921 cars
+  Light 599: 888 cars
+  Light 399: 885 cars
+  Light 401: 865 cars
+  Light 249: 865 cars
+
+Top 5 congested lights for hour 2025-01-01 23:
+  Light 674: 947 cars
+  Light 498: 878 cars
+  Light 296: 850 cars
+  Light 542: 841 cars
+  Light 311: 839 cars
+
+Top 5 congested lights for hour 2025-01-02 00:
+  Light 358: 864 cars
+  Light 249: 857 cars
+  Light 36: 835 cars
+  Light 288: 833 cars
+  Light 31: 818 cars
+
+Top 5 congested lights for hour 2025-01-02 01:
+  Light 373: 884 cars
+  Light 119: 882 cars
+  Light 668: 874 cars
+  Light 391: 854 cars
+  Light 183: 854 cars
+
+Top 5 congested lights for hour 2025-01-02 02:
+  Light 332: 937 cars
+  Light 553: 883 cars
+  Light 555: 880 cars
+  Light 390: 860 cars
+  Light 521: 853 cars
+
+Top 5 congested lights for hour 2025-01-02 03:
+  Light 351: 956 cars
+  Light 473: 874 cars
+  Light 14: 870 cars
+  Light 589: 855 cars
+  Light 288: 849 cars
+
+Top 5 congested lights for hour 2025-01-02 04:
+  Light 112: 962 cars
+  Light 502: 893 cars
+  Light 708: 864 cars
+  Light 133: 829 cars
+  Light 45: 825 cars
+
+Top 5 congested lights for hour 2025-01-02 05:
+  Light 47: 879 cars
+  Light 245: 875 cars
+  Light 750: 861 cars
+  Light 123: 859 cars
+  Light 442: 857 cars
+
+Top 5 congested lights for hour 2025-01-02 06:
+  Light 290: 921 cars
+  Light 440: 864 cars
+  Light 248: 859 cars
+  Light 394: 858 cars
+  Light 576: 851 cars
+
+Top 5 congested lights for hour 2025-01-02 07:
+  Light 623: 913 cars
+  Light 131: 873 cars
+  Light 636: 872 cars
+  Light 307: 872 cars
+  Light 591: 855 cars
+
+Top 5 congested lights for hour 2025-01-02 08:
+  Light 301: 949 cars
+  Light 270: 916 cars
+  Light 54: 900 cars
+  Light 744: 882 cars
+  Light 272: 875 cars
+
+Top 5 congested lights for hour 2025-01-02 09:
+  Light 281: 873 cars
+  Light 54: 857 cars
+  Light 179: 853 cars
+  Light 449: 847 cars
+  Light 71: 840 cars
+
+Top 5 congested lights for hour 2025-01-02 10:
+  Light 674: 907 cars
+  Light 219: 880 cars
+  Light 366: 877 cars
+  Light 735: 854 cars
+  Light 75: 847 cars
+
+Top 5 congested lights for hour 2025-01-02 11:
+  Light 699: 868 cars
+  Light 442: 862 cars
+  Light 729: 861 cars
+  Light 394: 849 cars
+  Light 243: 845 cars
+
+Top 5 congested lights for hour 2025-01-02 12:
+  Light 73: 921 cars
+  Light 279: 888 cars
+  Light 683: 861 cars
+  Light 336: 859 cars
+  Light 175: 850 cars
+
+Top 5 congested lights for hour 2025-01-02 13:
+  Light 495: 985 cars
+  Light 529: 923 cars
+  Light 194: 913 cars
+  Light 382: 875 cars
+  Light 521: 867 cars
+
+Top 5 congested lights for hour 2025-01-02 14:
+  Light 466: 911 cars
+  Light 389: 889 cars
+  Light 510: 871 cars
+  Light 285: 865 cars
+  Light 131: 852 cars
+
+Top 5 congested lights for hour 2025-01-02 15:
+  Light 703: 865 cars
+  Light 360: 855 cars
+  Light 708: 852 cars
+  Light 415: 850 cars
+  Light 486: 847 cars
+
+Top 5 congested lights for hour 2025-01-02 16:
+  Light 453: 895 cars
+  Light 162: 875 cars
+  Light 690: 869 cars
+  Light 693: 849 cars
+  Light 355: 849 cars
+
+Top 5 congested lights for hour 2025-01-02 17:
+  Light 61: 937 cars
+  Light 441: 894 cars
+  Light 76: 879 cars
+  Light 303: 851 cars
+  Light 125: 846 cars
+
+Top 5 congested lights for hour 2025-01-02 18:
+  Light 483: 947 cars
+  Light 194: 902 cars
+  Light 80: 878 cars
+  Light 136: 877 cars
+  Light 196: 869 cars
+
+Top 5 congested lights for hour 2025-01-02 19:
+  Light 440: 944 cars
+  Light 709: 912 cars
+  Light 459: 867 cars
+  Light 670: 860 cars
+  Light 292: 853 cars
+
+Top 5 congested lights for hour 2025-01-02 20:
+  Light 403: 914 cars
+  Light 517: 894 cars
+  Light 130: 892 cars
+  Light 605: 867 cars
+  Light 545: 865 cars
+
+Top 5 congested lights for hour 2025-01-02 21:
+  Light 68: 906 cars
+  Light 218: 892 cars
+  Light 688: 891 cars
+  Light 262: 865 cars
+  Light 578: 858 cars
+
+Top 5 congested lights for hour 2025-01-02 22:
+  Light 579: 968 cars
+  Light 203: 899 cars
+  Light 671: 886 cars
+  Light 388: 885 cars
+  Light 524: 882 cars
+
+Top 5 congested lights for hour 2025-01-02 23:
+  Light 716: 913 cars
+  Light 432: 874 cars
+  Light 692: 842 cars
+  Light 177: 842 cars
+  Light 462: 840 cars
+
+Top 5 congested lights for hour 2025-01-03 00:
+  Light 501: 884 cars
+  Light 433: 873 cars
+  Light 45: 844 cars
+  Light 582: 833 cars
+  Light 303: 831 cars
+
+Top 5 congested lights for hour 2025-01-03 01:
+  Light 189: 915 cars
+  Light 274: 912 cars
+  Light 318: 894 cars
+  Light 725: 854 cars
+  Light 398: 848 cars
+
+Top 5 congested lights for hour 2025-01-03 02:
+  Light 288: 931 cars
+  Light 206: 921 cars
+  Light 347: 869 cars
+  Light 79: 865 cars
+  Light 423: 850 cars
+
+Top 5 congested lights for hour 2025-01-03 03:
+  Light 627: 928 cars
+  Light 681: 911 cars
+  Light 666: 898 cars
+  Light 526: 886 cars
+  Light 497: 880 cars
+
+Top 5 congested lights for hour 2025-01-03 04:
+  Light 533: 931 cars
+  Light 22: 903 cars
+  Light 676: 898 cars
+  Light 221: 896 cars
+  Light 364: 847 cars
+
+Top 5 congested lights for hour 2025-01-03 05:
+  Light 17: 913 cars
+  Light 239: 898 cars
+  Light 371: 888 cars
+  Light 657: 871 cars
+  Light 43: 856 cars
+
+Top 5 congested lights for hour 2025-01-03 06:
+  Light 409: 928 cars
+  Light 399: 911 cars
+  Light 65: 872 cars
+  Light 107: 870 cars
+  Light 623: 869 cars
+
+Top 5 congested lights for hour 2025-01-03 07:
+  Light 314: 908 cars
+  Light 313: 903 cars
+  Light 295: 883 cars
+  Light 536: 870 cars
+  Light 572: 828 cars
+
+Top 5 congested lights for hour 2025-01-03 08:
+  Light 476: 909 cars
+  Light 88: 888 cars
+  Light 681: 857 cars
+  Light 194: 847 cars
+  Light 213: 846 cars
+
+Top 5 congested lights for hour 2025-01-03 09:
+  Light 167: 898 cars
+  Light 127: 848 cars
+  Light 357: 843 cars
+  Light 19: 837 cars
+  Light 417: 836 cars
+
+Top 5 congested lights for hour 2025-01-03 10:
+  Light 477: 899 cars
+  Light 422: 894 cars
+  Light 699: 888 cars
+  Light 356: 885 cars
+  Light 665: 868 cars
+
+Top 5 congested lights for hour 2025-01-03 11:
+  Light 374: 929 cars
+  Light 369: 896 cars
+  Light 390: 889 cars
+  Light 20: 865 cars
+  Light 349: 855 cars
+
+Top 5 congested lights for hour 2025-01-03 12:
+  Light 359: 909 cars
+  Light 535: 890 cars
+  Light 511: 873 cars
+  Light 132: 867 cars
+  Light 13: 848 cars
+
+Top 5 congested lights for hour 2025-01-03 13:
+  Light 403: 916 cars
+  Light 622: 894 cars
+  Light 321: 881 cars
+  Light 352: 860 cars
+  Light 144: 854 cars
+
+Top 5 congested lights for hour 2025-01-03 14:
+  Light 86: 896 cars
+  Light 11: 862 cars
+  Light 720: 853 cars
+  Light 723: 852 cars
+  Light 300: 849 cars
+
+Top 5 congested lights for hour 2025-01-03 15:
+  Light 653: 929 cars
+  Light 10: 868 cars
+  Light 95: 863 cars
+  Light 216: 856 cars
+  Light 382: 851 cars
+
+Top 5 congested lights for hour 2025-01-03 16:
+  Light 358: 942 cars
+  Light 663: 937 cars
+  Light 506: 926 cars
+  Light 138: 899 cars
+  Light 308: 883 cars
+
+Top 5 congested lights for hour 2025-01-03 17:
+  Light 91: 937 cars
+  Light 67: 876 cars
+  Light 227: 851 cars
+  Light 674: 842 cars
+  Light 594: 832 cars
+
+Top 5 congested lights for hour 2025-01-03 18:
+  Light 58: 960 cars
+  Light 35: 857 cars
+  Light 53: 854 cars
+  Light 5: 841 cars
+  Light 720: 838 cars
+
+Top 5 congested lights for hour 2025-01-03 19:
+  Light 120: 913 cars
+  Light 352: 894 cars
+  Light 686: 867 cars
+  Light 348: 860 cars
+  Light 394: 853 cars
+
+Top 5 congested lights for hour 2025-01-03 20:
+  Light 237: 858 cars
+  Light 616: 856 cars
+  Light 571: 855 cars
+  Light 378: 855 cars
+  Light 85: 839 cars
+
+Top 5 congested lights for hour 2025-01-03 21:
+  Light 559: 875 cars
+  Light 342: 867 cars
+  Light 684: 859 cars
+  Light 219: 846 cars
+  Light 27: 836 cars
+
+Top 5 congested lights for hour 2025-01-03 22:
+  Light 355: 901 cars
+  Light 517: 884 cars
+  Light 586: 882 cars
+  Light 319: 864 cars
+  Light 85: 860 cars
+
+Top 5 congested lights for hour 2025-01-03 23:
+  Light 34: 857 cars
+  Light 709: 856 cars
+  Light 589: 831 cars
+  Light 256: 828 cars
+  Light 63: 825 cars
+
+Top 5 congested lights for hour 2025-01-04 00:
+  Light 462: 898 cars
+  Light 579: 895 cars
+  Light 355: 892 cars
+  Light 244: 858 cars
+  Light 397: 847 cars
+
+Top 5 congested lights for hour 2025-01-04 01:
+  Light 288: 915 cars
+  Light 677: 888 cars
+  Light 92: 869 cars
+  Light 506: 856 cars
+  Light 435: 842 cars
+
+Top 5 congested lights for hour 2025-01-04 02:
+  Light 383: 887 cars
+  Light 467: 882 cars
+  Light 375: 879 cars
+  Light 203: 879 cars
+  Light 729: 871 cars
+
+Top 5 congested lights for hour 2025-01-04 03:
+  Light 735: 909 cars
+  Light 403: 864 cars
+  Light 345: 846 cars
+  Light 540: 844 cars
+  Light 696: 831 cars
+
+Top 5 congested lights for hour 2025-01-04 04:
+  Light 116: 894 cars
+  Light 355: 858 cars
+  Light 450: 852 cars
+  Light 441: 838 cars
+  Light 705: 831 cars
+
+Top 5 congested lights for hour 2025-01-04 05:
+  Light 311: 861 cars
+  Light 683: 850 cars
+  Light 719: 849 cars
+  Light 481: 848 cars
+  Light 157: 848 cars
+
+Top 5 congested lights for hour 2025-01-04 06:
+  Light 395: 889 cars
+  Light 240: 876 cars
+  Light 285: 874 cars
+  Light 677: 856 cars
+  Light 198: 852 cars
+
+Top 5 congested lights for hour 2025-01-04 07:
+  Light 455: 928 cars
+  Light 139: 873 cars
+  Light 160: 853 cars
+  Light 544: 848 cars
+  Light 692: 828 cars
+
+Top 5 congested lights for hour 2025-01-04 08:
+  Light 273: 974 cars
+  Light 268: 949 cars
+  Light 433: 881 cars
+  Light 524: 875 cars
+  Light 304: 866 cars
+
+Top 5 congested lights for hour 2025-01-04 09:
+  Light 684: 880 cars
+  Light 657: 855 cars
+  Light 674: 854 cars
+  Light 365: 854 cars
+  Light 49: 845 cars
+
+Top 5 congested lights for hour 2025-01-04 10:
+  Light 586: 935 cars
+  Light 463: 915 cars
+  Light 83: 878 cars
+  Light 106: 859 cars
+  Light 644: 851 cars
+
+Top 5 congested lights for hour 2025-01-04 11:
+  Light 163: 904 cars
+  Light 183: 881 cars
+  Light 344: 878 cars
+  Light 29: 858 cars
+  Light 88: 846 cars
+
+Top 5 congested lights for hour 2025-01-04 12:
+  Light 157: 903 cars
+  Light 624: 878 cars
+  Light 149: 875 cars
+  Light 139: 862 cars
+  Light 65: 855 cars
+
+Top 5 congested lights for hour 2025-01-04 13:
+  Light 516: 945 cars
+  Light 661: 914 cars
+  Light 365: 863 cars
+  Light 622: 860 cars
+  Light 308: 854 cars
+
+Top 5 congested lights for hour 2025-01-04 14:
+  Light 742: 965 cars
+  Light 472: 879 cars
+  Light 386: 874 cars
+  Light 392: 866 cars
+  Light 621: 854 cars
+
+Top 5 congested lights for hour 2025-01-04 15:
+  Light 560: 929 cars
+  Light 309: 899 cars
+  Light 539: 865 cars
+  Light 568: 864 cars
+  Light 94: 857 cars
+
+Top 5 congested lights for hour 2025-01-04 16:
+  Light 243: 865 cars
+  Light 55: 847 cars
+  Light 738: 841 cars
+  Light 642: 840 cars
+  Light 341: 838 cars
+
+Top 5 congested lights for hour 2025-01-04 17:
+  Light 42: 909 cars
+  Light 463: 863 cars
+  Light 289: 859 cars
+  Light 275: 858 cars
+  Light 21: 857 cars
+
+Top 5 congested lights for hour 2025-01-04 18:
+  Light 591: 942 cars
+  Light 397: 870 cars
+  Light 700: 865 cars
+  Light 498: 855 cars
+  Light 428: 838 cars
+
+Top 5 congested lights for hour 2025-01-04 19:
+  Light 585: 911 cars
+  Light 712: 904 cars
+  Light 603: 903 cars
+  Light 668: 875 cars
+  Light 193: 867 cars
+
+Top 5 congested lights for hour 2025-01-04 20:
+  Light 589: 922 cars
+  Light 296: 912 cars
+  Light 444: 878 cars
+  Light 480: 875 cars
+  Light 279: 874 cars
+
+Top 5 congested lights for hour 2025-01-04 21:
+  Light 274: 954 cars
+  Light 145: 923 cars
+  Light 536: 850 cars
+  Light 704: 848 cars
+  Light 34: 838 cars
+
+Top 5 congested lights for hour 2025-01-04 22:
+  Light 168: 880 cars
+  Light 92: 876 cars
+  Light 240: 858 cars
+  Light 65: 857 cars
+  Light 187: 853 cars
+
+Top 5 congested lights for hour 2025-01-04 23:
+  Light 339: 929 cars
+  Light 710: 886 cars
+  Light 32: 883 cars
+  Light 256: 875 cars
+  Light 292: 864 cars
+
+Top 5 congested lights for hour 2025-01-05 00:
+  Light 696: 996 cars
+  Light 522: 914 cars
+  Light 385: 871 cars
+  Light 716: 845 cars
+  Light 318: 840 cars
+
+Top 5 congested lights for hour 2025-01-05 01:
+  Light 74: 926 cars
+  Light 296: 898 cars
+  Light 154: 860 cars
+  Light 689: 856 cars
+  Light 731: 851 cars
+
+Top 5 congested lights for hour 2025-01-05 02:
+  Light 489: 902 cars
+  Light 574: 890 cars
+  Light 445: 878 cars
+  Light 388: 846 cars
+  Light 252: 840 cars
+
+Top 5 congested lights for hour 2025-01-05 03:
+  Light 422: 941 cars
+  Light 479: 901 cars
+  Light 319: 876 cars
+  Light 510: 854 cars
+  Light 321: 845 cars
+
+Top 5 congested lights for hour 2025-01-05 04:
+  Light 341: 892 cars
+  Light 718: 879 cars
+  Light 399: 877 cars
+  Light 402: 861 cars
+  Light 268: 848 cars
+
+Top 5 congested lights for hour 2025-01-05 05:
+  Light 349: 880 cars
+  Light 446: 853 cars
+  Light 598: 846 cars
+  Light 490: 842 cars
+  Light 366: 842 cars
+
+Top 5 congested lights for hour 2025-01-05 06:
+  Light 3: 933 cars
+  Light 560: 862 cars
+  Light 572: 855 cars
+  Light 382: 851 cars
+  Light 501: 844 cars
+
+Top 5 congested lights for hour 2025-01-05 07:
+  Light 449: 897 cars
+  Light 357: 890 cars
+  Light 615: 850 cars
+  Light 179: 850 cars
+  Light 354: 843 cars
+
+Top 5 congested lights for hour 2025-01-05 08:
+  Light 285: 884 cars
+  Light 357: 876 cars
+  Light 658: 867 cars
+  Light 80: 851 cars
+  Light 683: 847 cars
+
+Top 5 congested lights for hour 2025-01-05 09:
+  Light 732: 868 cars
+  Light 204: 839 cars
+  Light 501: 836 cars
+  Light 418: 810 cars
+  Light 379: 807 cars
+
+Top 5 congested lights for hour 2025-01-05 10:
+  Light 196: 917 cars
+  Light 366: 878 cars
+  Light 350: 878 cars
+  Light 653: 872 cars
+  Light 445: 865 cars
+
+Top 5 congested lights for hour 2025-01-05 11:
+  Light 585: 901 cars
+  Light 705: 860 cars
+  Light 695: 852 cars
+  Light 541: 837 cars
+  Light 97: 833 cars
+
+Top 5 congested lights for hour 2025-01-05 12:
+  Light 500: 870 cars
+  Light 70: 867 cars
+  Light 430: 865 cars
+  Light 290: 851 cars
+  Light 622: 845 cars
+
+Top 5 congested lights for hour 2025-01-05 13:
+  Light 161: 880 cars
+  Light 13: 874 cars
+  Light 168: 864 cars
+  Light 669: 861 cars
+  Light 11: 851 cars
+
+Top 5 congested lights for hour 2025-01-05 14:
+  Light 291: 868 cars
+  Light 323: 866 cars
+  Light 510: 835 cars
+  Light 354: 833 cars
+  Light 602: 815 cars
+
+Top 5 congested lights for hour 2025-01-05 15:
+  Light 165: 900 cars
+  Light 386: 899 cars
+  Light 619: 868 cars
+  Light 571: 865 cars
+  Light 238: 858 cars
+
+Top 5 congested lights for hour 2025-01-05 16:
+  Light 134: 900 cars
+  Light 277: 877 cars
+  Light 126: 871 cars
+  Light 727: 867 cars
+  Light 189: 863 cars
+
+Top 5 congested lights for hour 2025-01-05 17:
+  Light 407: 857 cars
+  Light 62: 848 cars
+  Light 176: 845 cars
+  Light 570: 842 cars
+  Light 482: 837 cars
+
+Top 5 congested lights for hour 2025-01-05 18:
+  Light 538: 916 cars
+  Light 438: 882 cars
+  Light 25: 878 cars
+  Light 748: 874 cars
+  Light 349: 860 cars
+
+Top 5 congested lights for hour 2025-01-05 19:
+  Light 302: 955 cars
+  Light 725: 929 cars
+  Light 538: 876 cars
+  Light 485: 873 cars
+  Light 335: 862 cars
+
+Top 5 congested lights for hour 2025-01-05 20:
+  Light 58: 883 cars
+  Light 588: 877 cars
+  Light 388: 862 cars
+  Light 466: 852 cars
+  Light 733: 851 cars
+
+Top 5 congested lights for hour 2025-01-05 21:
+  Light 181: 873 cars
+  Light 3: 869 cars
+  Light 639: 868 cars
+  Light 405: 868 cars
+  Light 553: 859 cars
+
+Top 5 congested lights for hour 2025-01-05 22:
+  Light 369: 890 cars
+  Light 706: 887 cars
+  Light 748: 854 cars
+  Light 33: 854 cars
+  Light 261: 852 cars
+
+Top 5 congested lights for hour 2025-01-05 23:
+  Light 729: 940 cars
+  Light 526: 891 cars
+  Light 501: 877 cars
+  Light 536: 875 cars
+  Light 95: 865 cars
+
+Top 5 congested lights for hour 2025-01-06 00:
+  Light 223: 897 cars
+  Light 373: 896 cars
+  Light 573: 876 cars
+  Light 739: 846 cars
+  Light 80: 844 cars
+
+Top 5 congested lights for hour 2025-01-06 01:
+  Light 40: 890 cars
+  Light 281: 855 cars
+  Light 84: 852 cars
+  Light 50: 843 cars
+  Light 195: 837 cars
+
+Top 5 congested lights for hour 2025-01-06 02:
+  Light 576: 892 cars
+  Light 564: 859 cars
+  Light 135: 859 cars
+  Light 652: 851 cars
+  Light 605: 828 cars
+
+Top 5 congested lights for hour 2025-01-06 03:
+  Light 153: 855 cars
+  Light 301: 851 cars
+  Light 698: 850 cars
+  Light 695: 844 cars
+  Light 448: 844 cars
+
+Top 5 congested lights for hour 2025-01-06 04:
+  Light 550: 886 cars
+  Light 242: 883 cars
+  Light 683: 865 cars
+  Light 425: 863 cars
+  Light 632: 839 cars
+
+Top 5 congested lights for hour 2025-01-06 05:
+  Light 58: 931 cars
+  Light 409: 915 cars
+  Light 630: 903 cars
+  Light 666: 877 cars
+  Light 154: 877 cars
+
+Top 5 congested lights for hour 2025-01-06 06:
+  Light 584: 895 cars
+  Light 193: 863 cars
+  Light 110: 853 cars
+  Light 23: 849 cars
+  Light 664: 835 cars
+
+Top 5 congested lights for hour 2025-01-06 07:
+  Light 608: 893 cars
+  Light 450: 849 cars
+  Light 134: 841 cars
+  Light 524: 832 cars
+  Light 309: 831 cars
+
+Top 5 congested lights for hour 2025-01-06 08:
+  Light 357: 894 cars
+  Light 615: 855 cars
+  Light 463: 842 cars
+  Light 643: 838 cars
+  Light 98: 830 cars
+
+Top 5 congested lights for hour 2025-01-06 09:
+  Light 69: 932 cars
+  Light 314: 860 cars
+  Light 674: 858 cars
+  Light 690: 841 cars
+  Light 199: 827 cars
+
+Top 5 congested lights for hour 2025-01-06 10:
+  Light 30: 923 cars
+  Light 591: 911 cars
+  Light 727: 900 cars
+  Light 503: 897 cars
+  Light 399: 883 cars
+
+Top 5 congested lights for hour 2025-01-06 11:
+  Light 720: 935 cars
+  Light 515: 875 cars
+  Light 376: 869 cars
+  Light 30: 867 cars
+  Light 489: 857 cars
+
+Top 5 congested lights for hour 2025-01-06 12:
+  Light 492: 926 cars
+  Light 416: 888 cars
+  Light 5: 883 cars
+  Light 26: 879 cars
+  Light 697: 825 cars
+
+Top 5 congested lights for hour 2025-01-06 13:
+  Light 355: 904 cars
+  Light 340: 895 cars
+  Light 538: 880 cars
+  Light 266: 872 cars
+  Light 607: 849 cars
+
+Top 5 congested lights for hour 2025-01-06 14:
+  Light 210: 934 cars
+  Light 180: 921 cars
+  Light 8: 873 cars
+  Light 629: 866 cars
+  Light 193: 862 cars
+
+Top 5 congested lights for hour 2025-01-06 15:
+  Light 54: 899 cars
+  Light 672: 884 cars
+  Light 204: 858 cars
+  Light 281: 843 cars
+  Light 235: 839 cars
+
+Top 5 congested lights for hour 2025-01-06 16:
+  Light 623: 910 cars
+  Light 224: 905 cars
+  Light 466: 885 cars
+  Light 600: 863 cars
+  Light 282: 856 cars
+
+Top 5 congested lights for hour 2025-01-06 17:
+  Light 594: 896 cars
+  Light 487: 864 cars
+  Light 295: 855 cars
+  Light 399: 846 cars
+  Light 435: 834 cars
+
+Top 5 congested lights for hour 2025-01-06 18:
+  Light 598: 898 cars
+  Light 710: 884 cars
+  Light 303: 881 cars
+  Light 481: 870 cars
+  Light 234: 850 cars
+
+Top 5 congested lights for hour 2025-01-06 19:
+  Light 21: 891 cars
+  Light 116: 861 cars
+  Light 342: 856 cars
+  Light 285: 840 cars
+  Light 348: 833 cars
+
+Top 5 congested lights for hour 2025-01-06 20:
+  Light 353: 928 cars
+  Light 609: 921 cars
+  Light 409: 871 cars
+  Light 150: 857 cars
+  Light 337: 855 cars
+
+Top 5 congested lights for hour 2025-01-06 21:
+  Light 141: 912 cars
+  Light 745: 894 cars
+  Light 113: 876 cars
+  Light 19: 869 cars
+  Light 194: 855 cars
+
+Top 5 congested lights for hour 2025-01-06 22:
+  Light 722: 917 cars
+  Light 25: 903 cars
+  Light 416: 860 cars
+  Light 51: 852 cars
+  Light 573: 840 cars
+
+Top 5 congested lights for hour 2025-01-06 23:
+  Light 646: 881 cars
+  Light 250: 875 cars
+  Light 454: 858 cars
+  Light 397: 823 cars
+  Light 124: 819 cars
+
+Top 5 congested lights for hour 2025-01-07 00:
+  Light 14: 1044 cars
+  Light 422: 909 cars
+  Light 473: 878 cars
+  Light 571: 854 cars
+  Light 325: 852 cars
+
+Top 5 congested lights for hour 2025-01-07 01:
+  Light 47: 954 cars
+  Light 254: 907 cars
+  Light 220: 889 cars
+  Light 708: 884 cars
+  Light 730: 873 cars
+
+Top 5 congested lights for hour 2025-01-07 02:
+  Light 456: 888 cars
+  Light 667: 884 cars
+  Light 511: 875 cars
+  Light 87: 875 cars
+  Light 243: 871 cars
+
+Top 5 congested lights for hour 2025-01-07 03:
+  Light 189: 919 cars
+  Light 679: 901 cars
+  Light 216: 880 cars
+  Light 88: 871 cars
+  Light 533: 858 cars
+
+Top 5 congested lights for hour 2025-01-07 04:
+  Light 243: 960 cars
+  Light 90: 927 cars
+  Light 571: 920 cars
+  Light 333: 846 cars
+  Light 728: 832 cars
+
+Top 5 congested lights for hour 2025-01-07 05:
+  Light 680: 981 cars
+  Light 82: 891 cars
+  Light 330: 887 cars
+  Light 601: 871 cars
+  Light 444: 856 cars
+
+Top 5 congested lights for hour 2025-01-07 06:
+  Light 156: 916 cars
+  Light 451: 867 cars
+  Light 496: 866 cars
+  Light 313: 866 cars
+  Light 494: 863 cars
+
+Top 5 congested lights for hour 2025-01-07 07:
+  Light 333: 897 cars
+  Light 657: 844 cars
+  Light 352: 838 cars
+  Light 307: 829 cars
+  Light 118: 825 cars
+
+Top 5 congested lights for hour 2025-01-07 08:
+  Light 627: 877 cars
+  Light 725: 874 cars
+  Light 447: 865 cars
+  Light 295: 838 cars
+  Light 534: 833 cars
+
+Top 5 congested lights for hour 2025-01-07 09:
+  Light 732: 886 cars
+  Light 219: 851 cars
+  Light 630: 845 cars
+  Light 178: 840 cars
+  Light 438: 830 cars
+
+Top 5 congested lights for hour 2025-01-07 10:
+  Light 48: 895 cars
+  Light 57: 870 cars
+  Light 476: 866 cars
+  Light 371: 864 cars
+  Light 748: 846 cars
+
+Top 5 congested lights for hour 2025-01-07 11:
+  Light 573: 914 cars
+  Light 247: 908 cars
+  Light 598: 867 cars
+  Light 138: 847 cars
+  Light 139: 845 cars
+
+Top 5 congested lights for hour 2025-01-07 12:
+  Light 82: 874 cars
+  Light 489: 873 cars
+  Light 169: 872 cars
+  Light 269: 857 cars
+  Light 214: 834 cars
+
+Top 5 congested lights for hour 2025-01-07 13:
+  Light 531: 915 cars
+  Light 131: 859 cars
+  Light 532: 857 cars
+  Light 338: 844 cars
+  Light 246: 840 cars
+
+Top 5 congested lights for hour 2025-01-07 14:
+  Light 209: 876 cars
+  Light 298: 863 cars
+  Light 65: 847 cars
+  Light 61: 841 cars
+  Light 469: 834 cars
+
+Top 5 congested lights for hour 2025-01-07 15:
+  Light 690: 899 cars
+  Light 396: 897 cars
+  Light 54: 874 cars
+  Light 272: 855 cars
+  Light 728: 851 cars
+
+Top 5 congested lights for hour 2025-01-07 16:
+  Light 336: 915 cars
+  Light 369: 897 cars
+  Light 650: 863 cars
+  Light 431: 855 cars
+  Light 222: 854 cars
+
+Top 5 congested lights for hour 2025-01-07 17:
+  Light 478: 971 cars
+  Light 176: 901 cars
+  Light 468: 885 cars
+  Light 745: 875 cars
+  Light 682: 875 cars
+
+Top 5 congested lights for hour 2025-01-07 18:
+  Light 100: 915 cars
+  Light 2: 875 cars
+  Light 257: 860 cars
+  Light 118: 858 cars
+  Light 40: 850 cars
+
+Top 5 congested lights for hour 2025-01-07 19:
+  Light 106: 864 cars
+  Light 63: 864 cars
+  Light 583: 859 cars
+  Light 135: 852 cars
+  Light 277: 849 cars
+
+Top 5 congested lights for hour 2025-01-07 20:
+  Light 40: 887 cars
+  Light 537: 853 cars
+  Light 515: 849 cars
+  Light 674: 838 cars
+  Light 349: 837 cars
+
+Top 5 congested lights for hour 2025-01-07 21:
+  Light 559: 942 cars
+  Light 408: 904 cars
+  Light 595: 897 cars
+  Light 422: 866 cars
+  Light 49: 866 cars
+
+Top 5 congested lights for hour 2025-01-07 22:
+  Light 484: 937 cars
+  Light 502: 896 cars
+  Light 13: 847 cars
+  Light 707: 845 cars
+  Light 138: 839 cars
+
+Top 5 congested lights for hour 2025-01-07 23:
+  Light 399: 918 cars
+  Light 462: 883 cars
+  Light 193: 880 cars
+  Light 508: 874 cars
+  Light 703: 872 cars
+
+Top 5 congested lights for hour 2025-01-08 00:
+  Light 7: 894 cars
+  Light 36: 890 cars
+  Light 60: 874 cars
+  Light 114: 851 cars
+  Light 57: 847 cars
+
+Top 5 congested lights for hour 2025-01-08 01:
+  Light 55: 864 cars
+  Light 190: 860 cars
+  Light 359: 854 cars
+  Light 556: 836 cars
+  Light 9: 836 cars
+
+Top 5 congested lights for hour 2025-01-08 02:
+  Light 135: 890 cars
+  Light 500: 861 cars
+  Light 737: 858 cars
+  Light 157: 854 cars
+  Light 59: 851 cars
+
+Top 5 congested lights for hour 2025-01-08 03:
+  Light 465: 941 cars
+  Light 531: 896 cars
+  Light 375: 880 cars
+  Light 733: 852 cars
+  Light 135: 839 cars
+
+Top 5 congested lights for hour 2025-01-08 04:
+  Light 352: 903 cars
+  Light 252: 882 cars
+  Light 400: 852 cars
+  Light 716: 848 cars
+  Light 56: 843 cars
+
+Top 5 congested lights for hour 2025-01-08 05:
+  Light 157: 889 cars
+  Light 92: 882 cars
+  Light 727: 852 cars
+  Light 261: 849 cars
+  Light 626: 846 cars
+
+Top 5 congested lights for hour 2025-01-08 06:
+  Light 730: 949 cars
+  Light 234: 904 cars
+  Light 724: 892 cars
+  Light 149: 865 cars
+  Light 493: 852 cars
+
+Top 5 congested lights for hour 2025-01-08 07:
+  Light 724: 909 cars
+  Light 679: 894 cars
+  Light 313: 884 cars
+  Light 149: 884 cars
+  Light 640: 872 cars
+
+Top 5 congested lights for hour 2025-01-08 08:
+  Light 27: 897 cars
+  Light 103: 871 cars
+  Light 61: 856 cars
+  Light 346: 838 cars
+  Light 195: 826 cars
+
+Top 5 congested lights for hour 2025-01-08 09:
+  Light 442: 926 cars
+  Light 677: 894 cars
+  Light 379: 873 cars
+  Light 219: 868 cars
+  Light 414: 860 cars
+
+Top 5 congested lights for hour 2025-01-08 10:
+  Light 139: 926 cars
+  Light 197: 910 cars
+  Light 304: 903 cars
+  Light 506: 901 cars
+  Light 362: 869 cars
+
+Top 5 congested lights for hour 2025-01-08 11:
+  Light 228: 888 cars
+  Light 107: 865 cars
+  Light 35: 859 cars
+  Light 188: 821 cars
+  Light 435: 819 cars
+
+Top 5 congested lights for hour 2025-01-08 12:
+  Light 241: 907 cars
+  Light 485: 870 cars
+  Light 441: 858 cars
+  Light 168: 847 cars
+  Light 332: 839 cars
+
+Top 5 congested lights for hour 2025-01-08 13:
+  Light 577: 911 cars
+  Light 279: 903 cars
+  Light 659: 857 cars
+  Light 333: 845 cars
+  Light 467: 843 cars
+
+Top 5 congested lights for hour 2025-01-08 14:
+  Light 121: 906 cars
+  Light 558: 873 cars
+  Light 602: 863 cars
+  Light 76: 860 cars
+  Light 570: 858 cars
+
+Top 5 congested lights for hour 2025-01-08 15:
+  Light 389: 923 cars
+  Light 234: 915 cars
+  Light 593: 839 cars
+  Light 105: 837 cars
+  Light 202: 835 cars
+
+Top 5 congested lights for hour 2025-01-08 16:
+  Light 719: 866 cars
+  Light 657: 862 cars
+  Light 633: 854 cars
+  Light 62: 853 cars
+  Light 417: 843 cars
+
+Top 5 congested lights for hour 2025-01-08 17:
+  Light 169: 936 cars
+  Light 147: 881 cars
+  Light 434: 873 cars
+  Light 282: 870 cars
+  Light 71: 853 cars
+
+Top 5 congested lights for hour 2025-01-08 18:
+  Light 117: 904 cars
+  Light 625: 884 cars
+  Light 77: 883 cars
+  Light 67: 883 cars
+  Light 586: 871 cars
+
+Top 5 congested lights for hour 2025-01-08 19:
+  Light 721: 903 cars
+  Light 417: 899 cars
+  Light 525: 879 cars
+  Light 315: 879 cars
+  Light 141: 873 cars
+
+Top 5 congested lights for hour 2025-01-08 20:
+  Light 414: 942 cars
+  Light 438: 880 cars
+  Light 708: 876 cars
+  Light 1: 859 cars
+  Light 598: 858 cars
+
+Top 5 congested lights for hour 2025-01-08 21:
+  Light 419: 877 cars
+  Light 96: 874 cars
+  Light 24: 856 cars
+  Light 469: 849 cars
+  Light 10: 841 cars
+
+Top 5 congested lights for hour 2025-01-08 22:
+  Light 701: 884 cars
+  Light 370: 884 cars
+  Light 655: 880 cars
+  Light 270: 872 cars
+  Light 396: 856 cars
+
+Top 5 congested lights for hour 2025-01-08 23:
+  Light 219: 872 cars
+  Light 242: 853 cars
+  Light 277: 840 cars
+  Light 436: 838 cars
+  Light 670: 836 cars
+
+Top 5 congested lights for hour 2025-01-09 00:
+  Light 598: 879 cars
+  Light 238: 873 cars
+  Light 453: 870 cars
+  Light 410: 830 cars
+  Light 721: 826 cars
+
+Top 5 congested lights for hour 2025-01-09 01:
+  Light 75: 886 cars
+  Light 697: 875 cars
+  Light 184: 842 cars
+  Light 599: 841 cars
+  Light 83: 840 cars
+
+Top 5 congested lights for hour 2025-01-09 02:
+  Light 740: 892 cars
+  Light 243: 885 cars
+  Light 620: 884 cars
+  Light 144: 883 cars
+  Light 315: 861 cars
+
+Top 5 congested lights for hour 2025-01-09 03:
+  Light 494: 947 cars
+  Light 31: 876 cars
+  Light 196: 851 cars
+  Light 222: 842 cars
+  Light 713: 841 cars
+
+Top 5 congested lights for hour 2025-01-09 04:
+  Light 677: 928 cars
+  Light 686: 898 cars
+  Light 659: 896 cars
+  Light 584: 895 cars
+  Light 363: 890 cars
+
+Top 5 congested lights for hour 2025-01-09 05:
+  Light 380: 914 cars
+  Light 695: 899 cars
+  Light 437: 888 cars
+  Light 310: 873 cars
+  Light 718: 846 cars
+
+Top 5 congested lights for hour 2025-01-09 06:
+  Light 678: 949 cars
+  Light 392: 907 cars
+  Light 609: 906 cars
+  Light 402: 866 cars
+  Light 505: 862 cars
+
+Top 5 congested lights for hour 2025-01-09 07:
+  Light 180: 964 cars
+  Light 120: 931 cars
+  Light 726: 872 cars
+  Light 157: 859 cars
+  Light 48: 845 cars
+
+Top 5 congested lights for hour 2025-01-09 08:
+  Light 150: 910 cars
+  Light 591: 892 cars
+  Light 166: 864 cars
+  Light 650: 860 cars
+  Light 397: 852 cars
+
+Top 5 congested lights for hour 2025-01-09 09:
+  Light 428: 916 cars
+  Light 47: 887 cars
+  Light 191: 858 cars
+  Light 483: 851 cars
+  Light 424: 827 cars
+
+Top 5 congested lights for hour 2025-01-09 10:
+  Light 71: 897 cars
+  Light 367: 860 cars
+  Light 477: 850 cars
+  Light 439: 844 cars
+  Light 314: 842 cars
+
+Top 5 congested lights for hour 2025-01-09 11:
+  Light 400: 936 cars
+  Light 673: 860 cars
+  Light 342: 847 cars
+  Light 537: 846 cars
+  Light 721: 845 cars
+
+Top 5 congested lights for hour 2025-01-09 12:
+  Light 49: 968 cars
+  Light 155: 902 cars
+  Light 642: 895 cars
+  Light 72: 872 cars
+  Light 166: 868 cars
+
+Top 5 congested lights for hour 2025-01-09 13:
+  Light 652: 899 cars
+  Light 126: 870 cars
+  Light 153: 866 cars
+  Light 577: 865 cars
+  Light 744: 861 cars
+
+Top 5 congested lights for hour 2025-01-09 14:
+  Light 154: 900 cars
+  Light 198: 873 cars
+  Light 561: 863 cars
+  Light 43: 857 cars
+  Light 82: 847 cars
+
+Top 5 congested lights for hour 2025-01-09 15:
+  Light 731: 930 cars
+  Light 137: 885 cars
+  Light 65: 874 cars
+  Light 702: 872 cars
+  Light 24: 868 cars
+
+Top 5 congested lights for hour 2025-01-09 16:
+  Light 164: 911 cars
+  Light 457: 861 cars
+  Light 693: 850 cars
+  Light 20: 850 cars
+  Light 30: 844 cars
+
+Top 5 congested lights for hour 2025-01-09 17:
+  Light 128: 932 cars
+  Light 116: 903 cars
+  Light 730: 871 cars
+  Light 736: 859 cars
+  Light 126: 854 cars
+
+Top 5 congested lights for hour 2025-01-09 18:
+  Light 239: 915 cars
+  Light 300: 910 cars
+  Light 708: 849 cars
+  Light 535: 848 cars
+  Light 63: 838 cars
+
+Top 5 congested lights for hour 2025-01-09 19:
+  Light 443: 927 cars
+  Light 688: 892 cars
+  Light 404: 879 cars
+  Light 276: 868 cars
+  Light 126: 867 cars
+
+Top 5 congested lights for hour 2025-01-09 20:
+  Light 466: 907 cars
+  Light 231: 888 cars
+  Light 288: 880 cars
+  Light 439: 859 cars
+  Light 290: 857 cars
+
+Top 5 congested lights for hour 2025-01-09 21:
+  Light 357: 866 cars
+  Light 483: 840 cars
+  Light 267: 839 cars
+  Light 616: 831 cars
+  Light 73: 831 cars
+
+Top 5 congested lights for hour 2025-01-09 22:
+  Light 278: 911 cars
+  Light 601: 910 cars
+  Light 63: 854 cars
+  Light 750: 843 cars
+  Light 323: 842 cars
+
+Top 5 congested lights for hour 2025-01-09 23:
+  Light 300: 928 cars
+  Light 136: 882 cars
+  Light 691: 873 cars
+  Light 714: 872 cars
+  Light 518: 867 cars
+
+Total processing time with 4 MPI processes: 1,216,146 microseconds
