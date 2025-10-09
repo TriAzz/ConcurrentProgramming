@@ -1,0 +1,5 @@
+{
+  "name": "Real-Time Image Filter Processor",
+  "description": "A web-based GUI for a high-performance image processing application. It allows users to load images, apply filters in real-time, and compare the performance of GPU (simulated OpenCL) vs. CPU (simulated OpenMP) processing.",
+  "requestFramePermissions": []
+}
